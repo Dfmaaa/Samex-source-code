@@ -1,0 +1,1 @@
+For Linux, run install.sh, for windows, run install.bat. for Mac OS, run install.command
