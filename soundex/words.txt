@@ -20,3 +20,6 @@ showalpha
 playfile
 packages
 rock paper scissors
+Atlas
+update
+lastcmd
