@@ -24,3 +24,5 @@ Atlas
 update
 lastcmd
 antivirus
+mkdir
+lock
