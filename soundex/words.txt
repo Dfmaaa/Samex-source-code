@@ -26,4 +26,7 @@ lastcmd
 antivirus
 mkdir
 lock
-disp [path]
+disp [text]
+decrlvl
+incrlvl
+suru [command]
