@@ -30,3 +30,5 @@ disp [text]
 decrlvl
 incrlvl
 suru [command]
+rmdir
+len
