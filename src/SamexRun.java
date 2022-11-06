@@ -404,7 +404,6 @@ public class SamexRun {
 		}
 	}
 	else if(System.getProperty("os.name").equals("Linux")){
-		if(System.getProperty("os.name").equals("Windows")){
 			try {
 				AudioInputStream audioInputStream = AudioSystem.getAudioInputStream(new File("sounds/" + location).getAbsoluteFile());
 				Clip clip = AudioSystem.getClip();
@@ -414,7 +413,6 @@ public class SamexRun {
 			} catch(Exception ex) {
 				System.out.println("Can't play sound. Contact sameerkw23@gmail.com");
 			}
-	}
 	}
 }
 	//TODO: use this method for soundex and don't forget cd [path] and dir [path] boolean checks.(DONE)
